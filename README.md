@@ -3,7 +3,7 @@
 </p>
 <h1 align="center"> Pacman Agent </h1>
 <h3 align="center"> CODE 01 - Artificial Intelligence </h3>
-<h5 align="center"> Project Assignment  - <a href="https://www.concordia.ca/">Harhs Sonkar</a> Hashcode </h5>
+<h5 align="center"> Project Assignment  - <a href="https://www.concordia.ca/"></a> Hashcode </h5>
 
 <p align="center"> 
   <img src="gif/pacman_game.gif" alt="Animated gif pacman game" height="282px" width="637">
