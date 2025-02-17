@@ -6,7 +6,7 @@
 <h5 align="center"> Project Assignment  - <a href="https://www.concordia.ca/"></a> Hashcode </h5>
 
 <p align="center"> 
-  <img src="gif/pacman_game.gif" alt="Animated gif pacman game" height="282px" width="637">
+  <img src="game.gif" alt="Animated gif pacman game" height="282px" width="637">
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -103,7 +103,7 @@
 <pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent</code></pre>
 
 <p align="center"> 
-<img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="282px" width="637px">
+<img src="DFS.gif" alt="Animated gif DFS Algorithm" height="282px" width="637px">
 <!--height="382px" width="737px"-->
 </p>
 
@@ -120,7 +120,7 @@
 <pre><code>$ python pacman.py -l bigMaze -p SearchAgent -a fn=bfs -z .5</code></pre>
 
 <p align="center"> 
-<img src="gif/BFS.gif" alt="Animated gif BFS Algorithm" height="282px" width="637">
+<img src="BFS.gif" alt="Animated gif BFS Algorithm" height="282px" width="637">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -138,7 +138,7 @@
 <pre><code>$ python pacman.py -l mediumScaryMaze -p StayWestSearchAgent</code></pre>
 
 <p align="center"> 
-<img src="gif/UCS.gif" alt="Animated gif UCS Algorithm" height="282px" width="637">
+<img src="UCS.gif" alt="Animated gif UCS Algorithm" height="282px" width="637">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -154,7 +154,7 @@
 <pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic</code></pre>
 
 <p align="center"> 
-<img src="gif/A.gif" alt="Animated gif A* search Algorithm" height="420px" width="420px">
+<img src="A.gif" alt="Animated gif A* search Algorithm" height="420px" width="420px">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -170,7 +170,7 @@
 <pre><code>$ python pacman.py -l mediumCorners -p SearchAgent -a fn=bfs,prob=CornersProblem</code></pre>
 
 <p align="center"> 
-<img src="gif/All Corners.gif" alt="Animated gif Finding All of the Corners" height="40%" width="40%">
+<img src="All Corners.gif" alt="Animated gif Finding All of the Corners" height="40%" width="40%">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -186,7 +186,7 @@
 <pre><code>$ python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5</code></pre>
 
 <p align="center"> 
-<img src="gif/Corner Heuristic.gif" alt="Animated gif Corners Problem" height="282px" width="637">
+<img src="Corner Heuristic.gif" alt="Animated gif Corners Problem" height="282px" width="637">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -200,7 +200,7 @@
 <pre><code>$ python pacman.py -l trickySearch -p AStarFoodSearchAgent</code></pre>
 
 <p align="center"> 
-<img src="gif/All Dots.gif" alt="Animated gif Eating All of The Dots" height="282px" width="637">
+<img src="All Dots.gif" alt="Animated gif Eating All of The Dots" height="282px" width="637">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -215,7 +215,7 @@
 <pre><code>$ python pacman.py -l bigSearch -p ClosestDotSearchAgent -z .5</code></pre>
 
 <p align="center"> 
-<img src="gif/Suboptimal Search.gif" alt="Animated gif Suboptimal Search" height="282px" width="637">
+<img src="Suboptimal Search.gif" alt="Animated gif Suboptimal Search" height="282px" width="637">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
